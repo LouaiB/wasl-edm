@@ -49,7 +49,7 @@
 
 		<!-- Hero Text -->
 		<mj-section mj-class="hero-text-section">
-			<mj-column>
+			<mj-column mj-class="hero-text-column">
 
 				<!-- Hero Title -->
 				<mj-image 
@@ -59,8 +59,6 @@
 
 				<!-- Hero Description -->
 				<mj-text mj-class="hero-description"
-					padding-left="15%"
-					padding-right="15%"
 					font-size="12px"
 				><b>استمتع بحياة عصريّة في قلب المدينة. وصل فيليج هي وجهتك السكنية الجديدة، بأسعارٍ معقولة، وبالقرب من شارع الشيخ محمد بن زايد وشارع بيروت. استئجر استديو أو شقّة من غرفة، غرفتين أو ثلاث غرف نوم واستمتع بالحياة في مجمّع سكني يؤمّن لك أفضل التشطيبات، مضمار للمشي والجري، محلات تجارية، حدائق عامة، مناطق مخصّصة للشواء والّلعب وغيرها من المرافق التي تثري حياتك.</b></mj-text>
 			</mj-column>

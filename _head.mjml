@@ -28,13 +28,17 @@
 
   <!-- Hero Text Section -->
   <mj-class name="hero-text-section"
-    padding-bottom="400px"
+    padding-bottom="300px"
+  />
+
+  <!-- Hero Text Column -->
+  <mj-class name="hero-text-column"
+    width="400px"
   />
 
   <!-- Hero Title -->
   <mj-class name="hero-title"
-    padding="20px 15%"
-    padding-top="0"
+    padding-bottom="20px"
   />
 
   <!-- Hero Description -->
@@ -42,7 +46,6 @@
     font-size="11px"
     color="#006838"
     align="center"
-    padding="5px 12%"
     line-height="14px"
     font-weight="500"
   />
@@ -64,7 +67,7 @@
   <!-- Specs Section -->
   <mj-class name="specs-section"
     background-color="#e1eff4"
-    padding-bottom="0"
+    padding="0"
   />
 
   <!-- Specs Icons Section -->

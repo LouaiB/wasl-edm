@@ -43,7 +43,7 @@
 
 		<!-- Hero Text -->
 		<mj-section mj-class="hero-text-section">
-			<mj-column>
+			<mj-column mj-class="hero-text-column">
 
 				<!-- Hero Title -->
 				<mj-image 
