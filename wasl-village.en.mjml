@@ -1,0 +1,266 @@
+<mjml>
+  <mj-head>
+	<!-- Font Family -->
+	<mj-text font-family="Open Sans, sans-serif" />
+	<mj-all font-family="Open Sans, sans-serif" />
+
+	<!-- Common Head -->
+    <mj-include path="./_head.mjml" />
+  </mj-head>
+  <mj-body>
+
+    <!-- Hero -->
+	<mj-wrapper 
+		mj-class="hero-wrapper"
+		background-url="https://imgur.com/lUtWPks.png"
+	>
+
+		<!-- Main Logo Row -->
+		<mj-section>
+			
+			<!-- Empty Col -->
+			<mj-column width="30%">
+			</mj-column>
+
+			<!-- Main Logo -->
+			<mj-column width="35%">
+				<mj-image 
+					mj-class="main-logo"
+					src="https://imgur.com/dlDMirW.png"
+				></mj-image>
+			</mj-column>
+			
+			<!-- Language Button -->
+			<mj-column width="30%">
+				<mj-image 
+					mj-class="language-button"
+					src="https://imgur.com/wSscbpE.png"
+					href="https://waslproperties.com/property/wasl-village.ar.html"
+				></mj-image>
+			</mj-column>
+
+		</mj-section>
+
+		<!-- Hero Text -->
+		<mj-section mj-class="hero-text-section">
+			<mj-column>
+
+				<!-- Hero Title -->
+				<mj-image 
+					mj-class="hero-title"
+					src="https://imgur.com/usTYx99.png"
+				></mj-image>
+
+				<!-- Hero Description -->
+				<mj-text mj-class="hero-description">Experience community living in the heart of the city. <span class="one-line">wasl village</span> in <span class="one-line">Al Qusais</span> is your new address for affordable urban living in a gated community with easy access to <span class="one-line">Sheikh Mohammed bin Zayed Road</span> and <span class="one-line">Beirut Street.</span> From studios to 1, 2 or 3-bedroom apartments, enjoy life indoors and outdoors with impeccable finishings, walking trails, jogging track, a retail center, parks, play and barbecue areas. <br/>Get the best of both worlds <span class="one-line">in wasl village.</span></mj-text>
+
+			</mj-column>
+		</mj-section>
+	</mj-wrapper>
+
+	<!-- Project Info Strip -->
+	<mj-section mj-class="info-strap-section">
+		<mj-column>
+			<mj-text mj-class="info-strap-text"><b>PROJECT NAME:</b> wasl village</mj-text>
+		</mj-column>
+		<mj-column>
+			<mj-text mj-class="info-strap-text"><b>PROJECT NUMBER:</b> R1083</mj-text>
+		</mj-column>
+		<mj-column>
+			<mj-text mj-class="info-strap-text"><b>NUMBER OF FLOORS:</b> G+6</mj-text>
+		</mj-column>
+	</mj-section>
+
+	<!-- Specs -->
+	<mj-wrapper mj-class="specs-section">
+
+		<!-- Specs Table -->
+		<mj-section>
+			<mj-column>
+				<mj-table>
+					<tr>
+						<td class="th__td br wider-col-on-mobile">Unit Type</td>
+						<td class="th__td br">Number of Units</td>
+						<td class="th__td br">Minimum Area (sq. ft.)</td>
+						<td class="th__td br">Maximum Area (sq. ft.)</td>
+						<td class="th__td">Rent Starts From (AED)</td>
+					</tr>
+					<tr>
+						<td class="tr__td bb br tr__td--bg1 small-txt-on-mobile">Studio</td>
+						<td class="tr__td bb br tr__td--bg2 medium-txt-on-mobile">4</td>
+						<td class="tr__td bb br tr__td--bg2 medium-txt-on-mobile">417</td>
+						<td class="tr__td bb br tr__td--bg2 medium-txt-on-mobile">495</td>
+						<td class="tr__td bb tr__td--bg2 medium-txt-on-mobile">20,000</td>
+					</tr>
+					<tr>
+						<td class="tr__td bb br tr__td--bg3 small-txt-on-mobile">1 Bedroom</td>
+						<td class="tr__td bb br tr__td--bg3 medium-txt-on-mobile">36</td>
+						<td class="tr__td bb br tr__td--bg3 medium-txt-on-mobile">764</td>
+						<td class="tr__td bb br tr__td--bg3 medium-txt-on-mobile">794</td>
+						<td class="tr__td bb tr__td--bg3 medium-txt-on-mobile">30,000</td>
+					</tr>
+					<tr>
+						<td class="tr__td bb br tr__td--bg1 small-txt-on-mobile">2 Bedrooms</td>
+						<td class="tr__td bb br tr__td--bg2 medium-txt-on-mobile">48</td>
+						<td class="tr__td bb br tr__td--bg2 medium-txt-on-mobile">1,084</td>
+						<td class="tr__td bb br tr__td--bg2 medium-txt-on-mobile">1,190</td>
+						<td class="tr__td bb tr__td--bg2 medium-txt-on-mobile">39,000</td>
+					</tr>
+					<tr>
+						<td class="tr__td br tr__td--bg3 small-txt-on-mobile">3 Bedrooms</td>
+						<td class="tr__td br tr__td--bg3 medium-txt-on-mobile">12</td>
+						<td class="tr__td br tr__td--bg3 medium-txt-on-mobile">1,395</td>
+						<td class="tr__td br tr__td--bg3 medium-txt-on-mobile">1,398</td>
+						<td class="tr__td tr__td--bg3 medium-txt-on-mobile">52,000</td>
+					</tr>
+
+				</mj-table>
+			</mj-column>
+		</mj-section>
+
+		<!-- Specs Icons -->
+		<mj-section mj-class="specs-icons-section">
+
+			<mj-group>
+				<mj-column mj-class="specs__icons__column">
+					<mj-image mj-class="specs__icon" src="https://imgur.com/c97kOmG.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">Retail Center</mj-text>
+				</mj-column mj-class="specs__icons__column">
+				<mj-column>
+					<mj-image mj-class="specs__icon" src="https://imgur.com/OhdfdLF.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">Jogging Track</mj-text>
+				</mj-column>
+			</mj-group>
+
+			<mj-group>
+				<mj-column mj-class="specs__icons__column">
+					<mj-image mj-class="specs__icon" src="https://imgur.com/OazS8D6.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">Barbecue Areas</mj-text>
+				</mj-column>
+				<mj-column mj-class="specs__icons__column">
+					<mj-image mj-class="specs__icon" src="https://imgur.com/AUgbndI.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">Kid's Play Areas</mj-text>
+				</mj-column>
+			</mj-group>
+
+			<mj-group>
+				<mj-column mj-class="specs__icons__column">
+					<mj-image mj-class="specs__icon" src="https://imgur.com/BIKk4vT.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">Football Field</mj-text>
+				</mj-column>
+				<mj-column mj-class="specs__icons__column">
+					<mj-image mj-class="specs__icon" src="https://imgur.com/BkkVOEA.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">Basketball Court</mj-text>
+				</mj-column>
+			</mj-group>
+
+			<mj-group>
+				<mj-column mj-class="specs__icons__column">
+					<mj-image mj-class="specs__icon" src="https://imgur.com/d8pZd4k.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">Cricket Pitch</mj-text>
+				</mj-column>
+				<mj-column mj-class="specs__icons__column">
+					<mj-image mj-class="specs__icon" src="https://imgur.com/VHVmBbc.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">Parks</mj-text>
+				</mj-column>
+			</mj-group>
+
+		</mj-section>
+
+		<!-- Gallery -->
+		<mj-section>
+			<mj-column>
+				<mj-image mj-class="gallery-img" src="https://imgur.com/5XfpIyf.png"></mj-image>
+			</mj-column>
+			<mj-column>
+				<mj-image mj-class="gallery-img" src="https://imgur.com/pZrcMp7.png"></mj-image>
+			</mj-column>
+			<mj-column>
+				<mj-image mj-class="gallery-img" src="https://imgur.com/RvsVEWn.png"></mj-image>
+			</mj-column>
+		</mj-section>
+
+		<!-- Map & Lease BTN -->
+		<mj-section mj-class="map-section">
+
+			<!-- Map -->
+			<mj-column mj-class="map-col-1">
+				<mj-image 
+					mj-class="map"
+					src="https://imgur.com/rB5nqPr.png"
+					href="https://bit.ly/3j4n6Ew"
+				></mj-image>
+			</mj-column>
+
+			<!-- Lease -->
+			<mj-column mj-class="map-col-2">
+				<mj-image 
+					mj-class="lease"
+					src="https://imgur.com/Z2op1Ei.png"
+					href="https://waslproperties.com/property/wasl-village.php?utm_source=Email&utm_medium=CRM&utm_campaign=waslvillage"
+				></mj-image>
+			</mj-column>
+
+		</mj-section>
+
+		<!-- Footer -->
+		<mj-section padding="0">
+
+			<!-- Socials -->
+			<mj-column mj-class="footer-column-1">
+
+				<!-- Hashtag -->
+				<mj-text mj-class="hashtag">RERA#54002</mj-text>
+
+				<!-- Social Icons -->
+				<mj-include path="./_socials.mjml" />
+
+				<!-- Social @ -->
+				<mj-image
+					mj-class="social-at"
+					src="https://imgur.com/qwnVKFq.png"
+				></mj-image>
+
+			</mj-column>
+
+			<!-- App Promo -->
+			<mj-column mj-class="footer-column-2">
+				<mj-text mj-class="app-promo">To lease, download wasl properties leasing app.</mj-text>
+			</mj-column>
+
+			<!-- QR Code -->
+			<mj-column mj-class="footer-column-3">
+				<mj-text mj-class="qr-text">Download <br />wasl properties <br />leasing app</mj-text>
+				<mj-image
+					mj-class="qr-code"
+					src="https://imgur.com/cQlu8wd.png"
+					href="http://onelink.to/55qn9y"
+				></mj-image>
+			</mj-column>
+
+		</mj-section>
+
+		<!-- Contact -->
+		<mj-section padding="0">
+			<mj-column>
+				<mj-text mj-class="contact">
+					<a target="_blank" href="mailto:lease@wasl.ae" class="contact-link">lease@wasl.ae</a> | <a target="_blank" href="tel:8009275" class="contact-link">800 9275</a> | <a target="_blank" href="https://waslvillage.com/" class="contact-link">waslvillage.com</a>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+	</mj-wrapper>
+
+	<!-- Bottom Strap -->
+	<mj-section mj-class="bottom-strap">
+		<mj-column>
+			<mj-text mj-class="bottom-strap-link">
+				<a href="{{{viewInBrowserUrl}}}" target="_blank" class="bottom-strap-link">View in Browser</a> | <a class="bottom-strap-link" href="{{{unsubscribeLink}}}" target="_blank">Unsubscribe</a>
+			</mj-text>
+		</mj-column>
+	</mj-section>
+
+
+
+  </mj-body>
+</mjml>

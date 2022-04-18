@@ -1,0 +1,27 @@
+<mj-social mj-class="social-icons-list" mode="horizontal">
+    <mj-social-element 
+        mj-class="social-icon"
+        name="facebook-noshare" 
+        href="https://www.facebook.com/waslgroup/"
+    ></mj-social-element>
+    <mj-social-element 
+        mj-class="social-icon"
+        name="instagram-noshare"
+        href="https://www.instagram.com/waslgroup/?hl=en"
+    ></mj-social-element>
+    <mj-social-element 
+        mj-class="social-icon"
+        name="twitter-noshare"
+        href="https://twitter.com/waslgroup?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    ></mj-social-element>
+    <mj-social-element 
+        mj-class="social-icon"
+        name="linkedin-noshare"
+        href="https://www.linkedin.com/company/wasl/"
+    ></mj-social-element>
+    <mj-social-element 
+        mj-class="social-icon"
+        name="youtube-noshare"
+        href="https://www.youtube.com/c/waslgroup/playlists?app=desktop"
+    ></mj-social-element>
+</mj-social>

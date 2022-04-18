@@ -1,0 +1,345 @@
+<!-- Global Attributes -->
+<mj-attributes>
+
+  <!-- Classes -->
+  <mj-class name="hero-wrapper"
+    background-size="cover"
+    background-repeat="no-repeat"
+  />
+
+  <!-- Language Button -->
+  <mj-class name="language-button"
+    css-class="language-button"
+    width="100px"
+		padding="0"
+		align="center"
+  />
+
+  <!-- Main Logo -->
+  <mj-class name="main-logo" 
+    padding="0"
+    padding-bottom="0"
+  />
+
+  <!-- Main Logo Side Spacing -->
+  <mj-class name="main-logo-side-spacer" 
+    width="9%"
+  />
+
+  <!-- Hero Text Section -->
+  <mj-class name="hero-text-section"
+    padding-bottom="400px"
+  />
+
+  <!-- Hero Title -->
+  <mj-class name="hero-title"
+    padding="20px 15%"
+    padding-top="0"
+  />
+
+  <!-- Hero Description -->
+  <mj-class name="hero-description"
+    font-size="11px"
+    color="#006838"
+    align="center"
+    padding="5px 12%"
+    line-height="14px"
+    font-weight="500"
+  />
+
+  <!-- Info Strap Section -->
+  <mj-class name="info-strap-section"
+    background-color="#80b0de"
+    padding="10px 5px"
+  />
+
+  <!-- Info Strap Text -->
+  <mj-class name="info-strap-text"
+    color="#ffffff"
+    font-size="11px"
+    align="center"
+    padding="5px 5px"
+  />
+
+  <!-- Specs Section -->
+  <mj-class name="specs-section"
+    background-color="#e1eff4"
+    padding-bottom="0"
+  />
+
+  <!-- Specs Icons Section -->
+  <mj-class name="specs-icons-section"
+    padding="0 10px"
+  />
+
+  <!-- Specs Icons Column -->
+  <mj-class name="specs__icons__column"
+    css-class="specs__icons__column"
+  />
+
+  <!-- Specs Icon Text -->
+  <mj-class name="specs__icons__text"
+    color="#3778a3"
+    align="center"
+    font-size="10px"
+    padding-top="10px"
+    padding-bottom="10px"
+    padding-left="2px"
+    padding-right="2px"
+    font-weight="500"
+  />
+
+  <!-- Specs Icon -->
+  <mj-class name="specs__icon" 
+    width="40px"
+    padding="0"
+  />
+
+  <!-- Gallery Image -->
+  <mj-class name="gallery-img"
+    css-class="gallery-img"
+    padding="0"
+  />
+
+  <!-- Map Section -->
+  <mj-class name="map-section"
+    padding-bottom="0"
+    padding-top="10px"
+    padding-right="0"
+  />
+
+  <!-- Map Column 1 (Map) -->
+  <mj-class name="map-col-1"
+    vertical-align="middle"
+    width="60%"
+  />
+
+  <!-- Map Column 2 (Lease Button) -->
+  <mj-class name="map-col-2"
+    vertical-align="middle"
+    width="39%"
+  />
+
+  <!-- Map -->
+  <mj-class name="map"
+    border="2px solid #3778a3"
+    target="_blank"
+    padding-bottom="0"
+  />
+
+  <!-- Lease Button -->
+  <mj-class name="lease"
+    width="200px"
+    target="_blank"
+    padding-bottom="0"
+  />
+
+  <!-- Footer Column (Left) -->
+  <mj-class name="footer-column-1"
+    width="12%"
+    vertical-align="bottom"
+    padding-top="20px"
+  />
+
+  <!-- Footer Column (Mid) -->
+  <mj-class name="footer-column-2"
+    width="70%"
+    vertical-align="bottom"
+    padding-left="15px"
+    padding-right="15px"
+    padding-top="20px"
+  />
+
+  <!-- Footer Column (Right) -->
+  <mj-class name="footer-column-3"
+    width="12%"
+    vertical-align="bottom"
+  />
+
+  <!-- Footer Social Icons List -->
+  <mj-class name="social-icons-list"
+    icon-size="12px"
+    inner-padding="1px"
+    padding="0px"
+  />
+
+  <!-- Footer => Hashtag -->
+  <mj-class name="hashtag"
+    color="#3778a3"
+    padding="5px 0"
+    font-weight="bold"
+    font-size="9px"
+    align="center"
+  />
+
+  <!-- Footer => Social Icon -->
+  <mj-class name="social-icon"
+    background-color="#3778a3"
+    target="_blank"
+  />
+
+  <!-- Footer => Social @ -->
+  <mj-class name="social-at"
+    padding="2px 5px"
+    padding-bottom="0"
+    align="center"
+  />
+
+  <!-- App Promo -->
+  <mj-class name="app-promo"
+    container-background-color="#80b0de"
+    color="#ffffff"
+    align="center"
+    padding="10px 5px"
+    font-size="9px"
+  />
+
+  <!-- Footer => Contact Info -->
+  <mj-class name="contact"
+    padding="15px 5px"
+    align="center"
+    color="#3778a3"
+    font-size="10px"
+    font-weight="bold"
+  />
+
+  <!-- QR Text -->
+  <mj-class name="qr-text"
+    align="center"
+    color="#3778a3"
+    font-size="8px"
+    line-height="9px"
+    font-weight="700"
+    padding="0"
+    padding-bottom="5px"
+    padding-top="20px"
+  />
+
+  <!-- QR Code -->
+  <mj-class name="qr-code"
+    align="center"
+    padding="0"
+    padding-top="0"
+    padding-bottom="0"
+  />
+
+  <!-- Bottom Strap -->
+  <mj-class name="bottom-strap"
+    background-color="#cccccc"
+    padding="5px 10px"
+    color="#000000"
+  />
+
+  <!-- Bottom Strap Link -->
+  <mj-class name="bottom-strap-link"
+    color="#000000"
+    padding="0"
+    align="center"
+  />
+
+</mj-attributes>
+
+
+<!-- Regular CSS Style Classes -->
+<mj-style inline="inline">
+  .th__td {
+    background-color: #3778a3;
+    color: #ffffff;
+    font-size: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 4px;
+  }
+
+  .tr__td {
+    color: #3778a3;
+    font-size: 14px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 4px;
+  }
+
+  .th__td--ar {
+    background-color: #3778a3;
+    color: #ffffff;
+    font-size: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 4px;
+  }
+  .tr__td--ar {
+    color: #3778a3;
+    font-size: 14px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 4px;
+  }
+
+  .tr__td--bg1 {
+    background-color: #e1eff4;
+  }
+
+  .tr__td--bg2 {
+    background-color: #ecf5f8;
+  }
+
+  .tr__td--bg3 {
+    background-color: #d5e7ee;
+  }
+
+  .br {
+    border-right: 1px solid #ffffff;
+  }
+  .bb {
+    border-bottom: 1px solid #ffffff;
+  }
+
+  .specs__icons__column {
+    margin: 0;
+  }
+
+  .contact-link {
+    text-decoration: none;
+    cursor: pointer;
+    color: #3778a3;
+  }
+
+  .bottom-strap-link {
+    text-decoration: none;
+    cursor: pointer;
+    color: #000000;
+    font-size: 9px;
+  }
+
+  .one-line {
+    white-space: nowrap !important;
+  }
+
+  .hashtag img {
+    margin-bottom: -20px !important;
+    margin-left: -20px !important;
+  }
+
+</mj-style>
+
+<!-- Responsive Style -->
+<mj-style>
+  @media (max-width:480px) {
+    .medium-txt-on-mobile {
+      font-size: 11px !important;
+    }
+    .small-txt-on-mobile {
+      font-size: 9px !important;
+    }
+    .wider-col-on-mobile {
+      min-width: 55px !important;
+    }
+    .language-button {
+      padding-top: 30px !important;
+    }
+  }
+
+  .gallery-img table {
+    width: 100% !important;
+  }
+</mj-style>

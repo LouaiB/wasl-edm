@@ -1,0 +1,303 @@
+<mjml>
+  <mj-head>
+	<!-- Font Family -->
+	<mj-text font-family="Open Sans, sans-serif" />
+	<mj-all font-family="Open Sans, sans-serif" />
+
+	<!-- Common Head -->
+    <mj-include path="./_head.mjml" />
+
+	<!-- Arabic Text Right-To-Left Support -->
+	<mj-style inline="inline">
+		* { direction: rtl; }
+	</mj-style>
+
+  </mj-head>
+  <mj-body>
+
+    <!-- Hero -->
+	<mj-wrapper 
+		mj-class="hero-wrapper"
+		background-url="https://imgur.com/lUtWPks.png"
+	>
+
+		<!-- Main Logo Row -->
+		<mj-section>
+			
+			<!-- Empty Col -->
+			<mj-column width="30%">
+			</mj-column>
+
+			<!-- Main Logo -->
+			<mj-column width="35%">
+				<mj-image 
+					mj-class="main-logo"
+					src="https://imgur.com/dlDMirW.png"
+				></mj-image>
+			</mj-column>
+			
+			<!-- Language Button -->
+			<mj-column width="30%">
+				<mj-image 
+					mj-class="language-button"
+					src="https://imgur.com/6wedu4y.png"
+					href="https://waslproperties.com/property/wasl-village.en.html"
+				></mj-image>
+			</mj-column>
+			
+		</mj-section>
+
+		<!-- Hero Text -->
+		<mj-section mj-class="hero-text-section">
+			<mj-column>
+
+				<!-- Hero Title -->
+				<mj-image 
+					mj-class="hero-title"
+					src="https://imgur.com/zj3ocZb.png"
+				></mj-image>
+
+				<!-- Hero Description -->
+				<mj-text mj-class="hero-description"
+					padding-left="15%"
+					padding-right="15%"
+					font-size="12px"
+				><b>استمتع بحياة عصريّة في قلب المدينة. وصل فيليج هي وجهتك السكنية الجديدة، بأسعارٍ معقولة، وبالقرب من شارع الشيخ محمد بن زايد وشارع بيروت. استئجر استديو أو شقّة من غرفة، غرفتين أو ثلاث غرف نوم واستمتع بالحياة في مجمّع سكني يؤمّن لك أفضل التشطيبات، مضمار للمشي والجري، محلات تجارية، حدائق عامة، مناطق مخصّصة للشواء والّلعب وغيرها من المرافق التي تثري حياتك.</b></mj-text>
+			</mj-column>
+		</mj-section>
+	</mj-wrapper>
+
+	                
+
+	<!-- Project Info Strip -->
+	<mj-section mj-class="info-strap-section">
+		<mj-column>
+			<mj-text mj-class="info-strap-text"><b>عدد الطوابق:</b> G+6</mj-text>
+		</mj-column>
+		<mj-column>
+			<mj-text mj-class="info-strap-text"><b>رقم المشروع:</b> R1083</mj-text>
+		</mj-column>
+		<mj-column>
+			<mj-text mj-class="info-strap-text"><b>اسم المشروع:</b> وصل فيليج</mj-text>
+		</mj-column>
+	</mj-section>
+
+	<!-- Specs -->
+	<mj-wrapper mj-class="specs-section">
+
+		<!-- Specs Table -->
+		<mj-section>
+			<mj-column>
+				<mj-table>
+					<tr>
+						<td class="th__td--ar wider-col-on-mobile">نوع الوحدة</td>
+						<td class="th__td--ar br">عدد الوحدات</td>
+						<td class="th__td--ar br">المساحة الصغرى (قدم مربع)</td>
+						<td class="th__td--ar br">المساحة الكبرى (قدم مربع)</td>
+						<td class="th__td--ar br">يبدأ الإيجار من (درھم)</td>
+					</tr>
+					<tr>
+						<td class="tr__td--ar bb tr__td--bg1 small-txt-on-mobile">استوديو</td>
+						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">4</td>
+						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">417</td>
+						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">495</td>
+						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">20,000</td>
+					</tr>
+					<tr>
+						<td class="tr__td--ar bb tr__td--bg3 small-txt-on-mobile">شقق من غرفة واحدة</td>
+						<td class="tr__td--ar bb br tr__td--bg3 medium-txt-on-mobile">36</td>
+						<td class="tr__td--ar bb br tr__td--bg3 medium-txt-on-mobile">764</td>
+						<td class="tr__td--ar bb br tr__td--bg3 medium-txt-on-mobile">794</td>
+						<td class="tr__td--ar bb br tr__td--bg3 medium-txt-on-mobile">30,000</td>
+					</tr>
+					<tr>
+						<td class="tr__td--ar bb tr__td--bg1 small-txt-on-mobile">شقق من غرفتین</td>
+						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">48</td>
+						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">1,084</td>
+						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">1,190</td>
+						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">39,000</td>
+					</tr>
+					<tr>
+						<td class="tr__td--ar tr__td--bg3 small-txt-on-mobile">شقق من 3 غرف</td>
+						<td class="tr__td--ar br tr__td--bg3 medium-txt-on-mobile">12</td>
+						<td class="tr__td--ar br tr__td--bg3 medium-txt-on-mobile">1,395</td>
+						<td class="tr__td--ar br tr__td--bg3 medium-txt-on-mobile">1,398</td>
+						<td class="tr__td--ar br tr__td--bg3 medium-txt-on-mobile">52,000</td>
+					</tr>
+
+				</mj-table>
+			</mj-column>
+		</mj-section>
+
+		<!-- Specs Icons -->
+		<mj-section mj-class="specs-icons-section">
+
+			<mj-group>
+				<mj-column mj-class="specs__icons__column">
+					<mj-image mj-class="specs__icon" src="https://imgur.com/c97kOmG.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">محلات تجارية</mj-text>
+				</mj-column mj-class="specs__icons__column">
+				<mj-column>
+					<mj-image mj-class="specs__icon" src="https://imgur.com/OhdfdLF.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">مضمار للجري</mj-text>
+				</mj-column>
+			</mj-group>
+
+			<mj-group>
+				<mj-column mj-class="specs__icons__column">
+					<mj-image mj-class="specs__icon" src="https://imgur.com/OazS8D6.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">أماكن مخصصة للشواء</mj-text>
+				</mj-column>
+				<mj-column mj-class="specs__icons__column">
+					<mj-image mj-class="specs__icon" src="https://imgur.com/AUgbndI.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">مناطق للعب الأطفال</mj-text>
+				</mj-column>
+			</mj-group>
+
+			<mj-group>
+				<mj-column mj-class="specs__icons__column">
+					<mj-image mj-class="specs__icon" src="https://imgur.com/BIKk4vT.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">ملعب لكرة القدم</mj-text>
+				</mj-column>
+				<mj-column mj-class="specs__icons__column">
+					<mj-image mj-class="specs__icon" src="https://imgur.com/BkkVOEA.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">ملعب لكرة السلة</mj-text>
+				</mj-column>
+			</mj-group>
+
+			<mj-group>
+				<mj-column mj-class="specs__icons__column">
+					<mj-image mj-class="specs__icon" src="https://imgur.com/d8pZd4k.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">ملعب كريكيت</mj-text>
+				</mj-column>
+				<mj-column mj-class="specs__icons__column">
+					<mj-image mj-class="specs__icon" src="https://imgur.com/VHVmBbc.png"></mj-image>
+					<mj-text mj-class="specs__icons__text">حدائق</mj-text>
+				</mj-column>
+			</mj-group>
+
+		</mj-section>
+
+		<!-- Gallery -->
+		<mj-section>
+			<mj-column>
+				<mj-image mj-class="gallery-img" src="https://imgur.com/5XfpIyf.png"></mj-image>
+			</mj-column>
+			<mj-column>
+				<mj-image mj-class="gallery-img" src="https://imgur.com/pZrcMp7.png"></mj-image>
+			</mj-column>
+			<mj-column>
+				<mj-image mj-class="gallery-img" src="https://imgur.com/RvsVEWn.png"></mj-image>
+			</mj-column>
+		</mj-section>
+
+		<!-- Map & Lease BTN -->
+		<mj-section mj-class="map-section">
+
+			<!-- Map -->
+			<mj-column mj-class="map-col-1">
+				<mj-image 
+					mj-class="map"
+					src="https://imgur.com/rB5nqPr.png"
+					href="https://bit.ly/3j4n6Ew"
+				></mj-image>
+			</mj-column>
+
+			<!-- Lease -->
+			<mj-column mj-class="map-col-2">
+				<mj-image 
+					mj-class="lease"
+					src="https://imgur.com/F1tdPrT.png"
+					href="https://waslproperties.com/property/wasl-village.php?utm_source=Email&utm_medium=CRM&utm_campaign=waslvillage"
+				></mj-image>
+			</mj-column>
+
+		</mj-section>
+
+		<!-- Footer -->
+		<mj-section padding="0">
+
+			<!-- Socials -->
+			<mj-column mj-class="footer-column-1">
+
+				<!-- Hashtag -->
+				<mj-text mj-class="hashtag">RERA#54002</mj-text>
+
+				<!-- Social Icons -->
+				<mj-social mj-class="social-icons-list" mode="horizontal">
+					<mj-social-element 
+						mj-class="social-icon"
+						name="youtube-noshare"
+						href="https://www.youtube.com/c/waslgroup/playlists?app=desktop"
+					></mj-social-element>
+					<mj-social-element 
+						mj-class="social-icon"
+						name="linkedin-noshare"
+						href="https://www.linkedin.com/company/wasl/"
+					></mj-social-element>
+					<mj-social-element 
+						mj-class="social-icon"
+						name="twitter-noshare"
+						href="https://twitter.com/waslgroup?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+					></mj-social-element>
+					<mj-social-element 
+						mj-class="social-icon"
+						name="instagram-noshare"
+						href="https://www.instagram.com/waslgroup/?hl=en"
+					></mj-social-element>
+					<mj-social-element 
+						mj-class="social-icon"
+						name="facebook-noshare" 
+						href="https://www.facebook.com/waslgroup/"
+					></mj-social-element>
+				</mj-social>
+
+				<!-- Social @ -->
+				<mj-image
+					mj-class="social-at"
+					src="https://imgur.com/qwnVKFq.png"
+				></mj-image>
+
+			</mj-column>
+
+			<!-- App Promo -->
+			<mj-column mj-class="footer-column-2">
+				<mj-text mj-class="app-promo">للإيجار، حمّل تطبيق وصل للعقارات للإيجار</mj-text>
+			</mj-column>
+
+			<!-- QR Code -->
+			<mj-column mj-class="footer-column-3">
+				<mj-text mj-class="qr-text"><b>حمّل تطبيق <br /> وصل للعقارات للإيجار</b></mj-text>
+				<mj-image
+					mj-class="qr-code"
+					src="https://imgur.com/cQlu8wd.png"
+					href="http://onelink.to/55qn9y"
+				></mj-image>
+			</mj-column>
+
+		</mj-section>
+
+		<!-- Contact -->
+		<mj-section padding="0">
+			<mj-column>
+				<mj-text mj-class="contact">
+					<a target="_blank" href="mailto:lease@wasl.ae" class="contact-link">lease@wasl.ae</a> | <a target="_blank" href="tel:8009275" class="contact-link">800 9275</a> | <a target="_blank" href="https://waslvillage.com/" class="contact-link">waslvillage.com</a>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+	</mj-wrapper>
+
+	<!-- Bottom Strap -->
+	<mj-section mj-class="bottom-strap">
+		<mj-column>
+			<mj-text mj-class="bottom-strap-link">
+				<a href="{{{viewInBrowserUrl}}}" target="_blank" class="bottom-strap-link">عـرض فـي المتصفـح </a> | <a class="bottom-strap-link" href="{{{unsubscribeLink}}}" target="_blank">إلغـاء الاشـتراك</a>
+			</mj-text>
+		</mj-column>
+	</mj-section>
+
+
+
+  </mj-body>
+</mjml>
