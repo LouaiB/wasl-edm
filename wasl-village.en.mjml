@@ -52,7 +52,12 @@
 				></mj-image>
 
 				<!-- Hero Description -->
-				<mj-text mj-class="hero-description">Experience community living in the heart of the city. <span class="one-line">wasl village</span> in <span class="one-line">Al Qusais</span> is your new address for affordable urban living in a gated community with easy access to <span class="one-line">Sheikh Mohammed bin Zayed Road</span> and <span class="one-line">Beirut Street.</span> From studios to 1, 2 or 3-bedroom apartments, enjoy life indoors and outdoors with impeccable finishings, walking trails, jogging track, a retail center, parks, play and barbecue areas. <br/>Get the best of both worlds <span class="one-line">in wasl village.</span></mj-text>
+				<!-- <mj-text mj-class="hero-description">Experience community living in the heart of the city. <span class="one-line">wasl village</span> in <span class="one-line">Al Qusais</span> is your new address for affordable urban living in a gated community with easy access to <span class="one-line">Sheikh Mohammed bin Zayed Road</span> and <span class="one-line">Beirut Street.</span> From studios to 1, 2 or 3-bedroom apartments, enjoy life indoors and outdoors with impeccable finishings, walking trails, jogging track, a retail center, parks, play and barbecue areas. <br/>Get the best of both worlds <span class="one-line">in wasl village.</span></mj-text> -->
+				<mj-text mj-class="hero-description">Bring your family & friends and join us between <b>April 23rd to 27rd from <span class="desktop"><br /></span>
+9:00pm to 12:00am</b> for a chance to view our mock-up units. <span class="desktop"><br /></span>
+Get a glimpse of our affordable rental options and enjoy light refreshments <span class="desktop"><br /></span>
+in an amazing Ramadan ambience. <span class="desktop"><br /></span>
+<span class="one-line">Enjoy a life in harmony, only at wasl village.</span></mj-text>
 
 			</mj-column>
 		</mj-section>

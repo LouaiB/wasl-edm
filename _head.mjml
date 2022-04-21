@@ -33,12 +33,13 @@
 
   <!-- Hero Text Column -->
   <mj-class name="hero-text-column"
-    width="400px"
+    width="450px"
   />
 
   <!-- Hero Title -->
   <mj-class name="hero-title"
     padding-bottom="20px"
+    width="400px"
   />
 
   <!-- Hero Description -->
@@ -47,7 +48,7 @@
     color="#006838"
     align="center"
     line-height="14px"
-    font-weight="500"
+    font-weight="400"
   />
 
   <!-- Info Strap Section -->
@@ -339,6 +340,9 @@
     }
     .language-button {
       padding-top: 30px !important;
+    }
+    .desktop {
+      display: none !important;
     }
   }
 
