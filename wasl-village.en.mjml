@@ -34,8 +34,8 @@
 			<mj-column width="30%">
 				<mj-image 
 					mj-class="language-button"
-					src="https://imgur.com/wSscbpE.png"
-					href="https://waslproperties.com/property/wasl-village.ar.html"
+					src="https://imgur.com/csq7QSz.png"
+					href="https://www.waslvillage.com/wasl-village.ar.html"
 				></mj-image>
 			</mj-column>
 
@@ -53,12 +53,14 @@
 
 				<!-- Hero Description -->
 				<!-- <mj-text mj-class="hero-description">Experience community living in the heart of the city. <span class="one-line">wasl village</span> in <span class="one-line">Al Qusais</span> is your new address for affordable urban living in a gated community with easy access to <span class="one-line">Sheikh Mohammed bin Zayed Road</span> and <span class="one-line">Beirut Street.</span> From studios to 1, 2 or 3-bedroom apartments, enjoy life indoors and outdoors with impeccable finishings, walking trails, jogging track, a retail center, parks, play and barbecue areas. <br/>Get the best of both worlds <span class="one-line">in wasl village.</span></mj-text> -->
-				<mj-text mj-class="hero-description">Bring your family & friends and join us between <b>April 23rd to 27rd from <span class="desktop"><br /></span>
-9:00pm to 12:00am</b> for a chance to view our mock-up units. <span class="desktop"><br /></span>
+				<mj-text mj-class="hero-description">
+Join us with your family between <span class="desktop"><br /></span>
+<b>April 23rd to 27th from 9:00pm to 12:00am</b> <span class="desktop"><br /></span> 
+for a chance to view our mock-up units. <span class="desktop"><br /></span>
 Get a glimpse of our affordable rental options and enjoy light refreshments <span class="desktop"><br /></span>
 in an amazing Ramadan ambience. <span class="desktop"><br /></span>
-<span class="one-line">Enjoy a life in harmony, only at wasl village.</span></mj-text>
-
+<span class="one-line">Enjoy a life in harmony, only at wasl village.</span>
+				</mj-text>
 			</mj-column>
 		</mj-section>
 	</mj-wrapper>
@@ -85,35 +87,35 @@ in an amazing Ramadan ambience. <span class="desktop"><br /></span>
 				<mj-table>
 					<tr>
 						<td class="th__td br wider-col-on-mobile">Unit Type</td>
-						<td class="th__td br">Number of Units</td>
+						<!-- <td class="th__td br">Number of Units</td> -->
 						<td class="th__td br">Minimum Area (sq. ft.)</td>
 						<td class="th__td br">Maximum Area (sq. ft.)</td>
 						<td class="th__td">Rent Starts From (AED)</td>
 					</tr>
 					<tr>
 						<td class="tr__td bb br tr__td--bg1 small-txt-on-mobile">Studio</td>
-						<td class="tr__td bb br tr__td--bg2 medium-txt-on-mobile">4</td>
+						<!-- <td class="tr__td bb br tr__td--bg2 medium-txt-on-mobile">4</td> -->
 						<td class="tr__td bb br tr__td--bg2 medium-txt-on-mobile">417</td>
 						<td class="tr__td bb br tr__td--bg2 medium-txt-on-mobile">495</td>
 						<td class="tr__td bb tr__td--bg2 medium-txt-on-mobile">20,000</td>
 					</tr>
 					<tr>
 						<td class="tr__td bb br tr__td--bg3 small-txt-on-mobile">1 Bedroom</td>
-						<td class="tr__td bb br tr__td--bg3 medium-txt-on-mobile">36</td>
+						<!-- <td class="tr__td bb br tr__td--bg3 medium-txt-on-mobile">36</td> -->
 						<td class="tr__td bb br tr__td--bg3 medium-txt-on-mobile">764</td>
 						<td class="tr__td bb br tr__td--bg3 medium-txt-on-mobile">794</td>
 						<td class="tr__td bb tr__td--bg3 medium-txt-on-mobile">30,000</td>
 					</tr>
 					<tr>
 						<td class="tr__td bb br tr__td--bg1 small-txt-on-mobile">2 Bedrooms</td>
-						<td class="tr__td bb br tr__td--bg2 medium-txt-on-mobile">48</td>
+						<!-- <td class="tr__td bb br tr__td--bg2 medium-txt-on-mobile">48</td> -->
 						<td class="tr__td bb br tr__td--bg2 medium-txt-on-mobile">1,084</td>
 						<td class="tr__td bb br tr__td--bg2 medium-txt-on-mobile">1,190</td>
 						<td class="tr__td bb tr__td--bg2 medium-txt-on-mobile">39,000</td>
 					</tr>
 					<tr>
 						<td class="tr__td br tr__td--bg3 small-txt-on-mobile">3 Bedrooms</td>
-						<td class="tr__td br tr__td--bg3 medium-txt-on-mobile">12</td>
+						<!-- <td class="tr__td br tr__td--bg3 medium-txt-on-mobile">12</td> -->
 						<td class="tr__td br tr__td--bg3 medium-txt-on-mobile">1,395</td>
 						<td class="tr__td br tr__td--bg3 medium-txt-on-mobile">1,398</td>
 						<td class="tr__td tr__td--bg3 medium-txt-on-mobile">52,000</td>

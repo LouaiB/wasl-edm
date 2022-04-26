@@ -41,7 +41,7 @@
 				<mj-image 
 					mj-class="language-button"
 					src="https://imgur.com/6wedu4y.png"
-					href="https://waslproperties.com/property/wasl-village.en.html"
+					href="https://www.waslvillage.com/wasl-village.en.html"
 				></mj-image>
 			</mj-column>
 			
@@ -49,7 +49,7 @@
 
 		<!-- Hero Text -->
 		<mj-section mj-class="hero-text-section">
-			<mj-column mj-class="hero-text-column">
+			<mj-column mj-class="hero-text-column" width="470px">
 
 				<!-- Hero Title -->
 				<mj-image 
@@ -60,10 +60,12 @@
 				<!-- Hero Description -->
 				<mj-text mj-class="hero-description"
 					font-size="14px"
-				>انضم إلينا بصحبة عائلتك وأصدقائك بين <b>23 إبريل و27 إبريل من الساعة 9:00 مساء
-وحتى 12:00 ليلا</b> وإحظ بفرصة الاطلاع على وحداتنا السكنية.
-<span class="desktop"><br /></span>تعرف على خياراتنا الواسعة من الإيجارات المتاحة بأسعار مناسبة واستمتع بوجبات خفيفة في
-أجواء رمضانية ممتعة.</mj-text>
+				>
+انضم إلينا بصحبة عائلتك وأصدقائك بين <span class="desktop"><br /></span> <b>23 إبريل و27 إبريل من الساعة 9:00 مساء
+وحتى 12:00 ليلا <span class="desktop"><br /></span></b> وإحظ بفرصة الاطلاع على وحداتنا السكنية. 
+<span class="desktop"><br /></span>تعرف على خياراتنا الواسعة من الإيجارات المتاحة بأسعار مناسبة واستمتع بوجبات خفيفة في <span class="desktop"><br /></span>
+أجواء رمضانية ممتعة.
+				</mj-text>
 			</mj-column>
 		</mj-section>
 	</mj-wrapper>
@@ -92,35 +94,35 @@
 				<mj-table>
 					<tr>
 						<td class="th__td--ar wider-col-on-mobile">نوع الوحدة</td>
-						<td class="th__td--ar br">عدد الوحدات</td>
+						<!-- <td class="th__td--ar br">عدد الوحدات</td> -->
 						<td class="th__td--ar br">المساحة الصغرى (قدم مربع)</td>
 						<td class="th__td--ar br">المساحة الكبرى (قدم مربع)</td>
 						<td class="th__td--ar br">يبدأ الإيجار من (درھم)</td>
 					</tr>
 					<tr>
 						<td class="tr__td--ar bb tr__td--bg1 small-txt-on-mobile">استوديو</td>
-						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">4</td>
+						<!-- <td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">4</td> -->
 						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">417</td>
 						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">495</td>
 						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">20,000</td>
 					</tr>
 					<tr>
 						<td class="tr__td--ar bb tr__td--bg3 small-txt-on-mobile">شقق من غرفة واحدة</td>
-						<td class="tr__td--ar bb br tr__td--bg3 medium-txt-on-mobile">36</td>
+						<!-- <td class="tr__td--ar bb br tr__td--bg3 medium-txt-on-mobile">36</td> -->
 						<td class="tr__td--ar bb br tr__td--bg3 medium-txt-on-mobile">764</td>
 						<td class="tr__td--ar bb br tr__td--bg3 medium-txt-on-mobile">794</td>
 						<td class="tr__td--ar bb br tr__td--bg3 medium-txt-on-mobile">30,000</td>
 					</tr>
 					<tr>
 						<td class="tr__td--ar bb tr__td--bg1 small-txt-on-mobile">شقق من غرفتین</td>
-						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">48</td>
+						<!-- <td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">48</td> -->
 						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">1,084</td>
 						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">1,190</td>
 						<td class="tr__td--ar bb br tr__td--bg2 medium-txt-on-mobile">39,000</td>
 					</tr>
 					<tr>
 						<td class="tr__td--ar tr__td--bg3 small-txt-on-mobile">شقق من 3 غرف</td>
-						<td class="tr__td--ar br tr__td--bg3 medium-txt-on-mobile">12</td>
+						<!-- <td class="tr__td--ar br tr__td--bg3 medium-txt-on-mobile">12</td> -->
 						<td class="tr__td--ar br tr__td--bg3 medium-txt-on-mobile">1,395</td>
 						<td class="tr__td--ar br tr__td--bg3 medium-txt-on-mobile">1,398</td>
 						<td class="tr__td--ar br tr__td--bg3 medium-txt-on-mobile">52,000</td>
